@@ -8,7 +8,7 @@ Upload an image, and the app will instantly predict the type of animal using a p
 ---
 
 ## 🖼 Overview
-![App Screenshot](<img width="1895" height="966" alt="Screenshot 2025-08-09 011857" src="https://github.com/user-attachments/assets/5ef6f2f0-b096-44e3-97a0-2f56a202d2d7" />
+![App Screenshot](<img width="1895" height="966" alt="Screenshot 2025-08-09 011857" src="https://github.com/user-attachments/assets/7840bf6b-c998-4df3-91f9-a75b107c0920" />
 )  
 
 ---
